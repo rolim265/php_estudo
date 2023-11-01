@@ -1,0 +1,27 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    background-color: #ff9900;
+    padding: 20px;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    color: #555;
+    margin-top: 20px;
+}
+
+strong {
+    color: #ff9900;
+    font-weight: bold;
+}
